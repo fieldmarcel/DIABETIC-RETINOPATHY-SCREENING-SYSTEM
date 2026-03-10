@@ -1,4 +1,4 @@
-# 🩺 **DIABETIC RETINOPATHY SCREENING SYSTEM**
+# 🩺 **DIABETIC RETINOPATHY SCREENING SYSTEM** ( by Shivanshu Tripathi-122ec0038)
 ### Automated Retinal Image Grading for Tele-Ophthalmology
 
 ---
